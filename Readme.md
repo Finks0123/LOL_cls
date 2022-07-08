@@ -4,7 +4,7 @@
 
 本项目为[常规赛：英雄联盟大师预测](https://aistudio.baidu.com/aistudio/competition/detail/247/0/introduction)的实现代码，算是paddle的学习流程。
 
-任务类型的**特征分类**，数据集中每一行为一个玩家的游戏数据，数据字段如下所示：
+任务类型为 **特征分类**，数据集中每一行为一个玩家的游戏数据，数据字段如下所示：
 
 - id：玩家记录id
 - win：是否胜利，标签变量
